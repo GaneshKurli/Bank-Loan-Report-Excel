@@ -250,3 +250,6 @@ This project was designed and developed by **Ganesh Kurli** as a comprehensive E
 *Data-driven lending intelligence — from raw applications to executive dashboards.*
 
 </div>
+
+ ![image alt](
+
